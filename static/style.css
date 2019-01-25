@@ -1,0 +1,16 @@
+/* main style sheet */
+
+body{
+	margin:0;
+	padding:0;
+	
+	background-color:#ececec;
+	
+}
+
+@media(min-width:786px){
+	.container{
+		margin:auto;
+		width:80%;
+	}
+}
