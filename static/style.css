@@ -8,14 +8,6 @@ body{
 	
 }
 
-@media(min-width:786px){
-	.container{
-		margin: auto;
-		width: 80%;
-	}
-	
-}
-
 nav ul {
 	list-style: none;
 	margin: none;
@@ -24,4 +16,24 @@ nav ul li {
 	display: inline;
 	padding: 0.8em; 
 	
-}   
+}  
+#main-header{
+	text-align: center;
+}
+
+@media(min-width:786px){
+	.container{
+		margin: auto;
+		width: 80%;
+	}
+	#main-section{
+		display: flex;
+		
+	}
+	#main-header{
+		display: flex;
+	}
+	
+}
+
+ 
