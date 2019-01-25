@@ -10,17 +10,18 @@ body{
 
 @media(min-width:786px){
 	.container{
-		margin:auto;
-		width:80%;
+		margin: auto;
+		width: 80%;
 	}
 	
 }
 
 nav ul {
-	list-style:none;
+	list-style: none;
 	margin: none;
 }
 nav ul li {
-	display:inline;
+	display: inline;
+	padding: 0.8em; 
 	
 }   
