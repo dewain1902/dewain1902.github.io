@@ -21,7 +21,7 @@ nav ul li {
 	text-align: center;
 }
 #highlight-section{
-	background: url("../images/saw-large.jpg") no-repeat right top;
+	background: url("../static/images/saw-large.jpg") no-repeat right top;
 }
 .custom-h1{
 	font-size: 1.6em;
