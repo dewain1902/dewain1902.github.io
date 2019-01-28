@@ -5,7 +5,7 @@ body{
 	padding:0;
 	
 	background-color:#ececec;
-	
+	font-family: Arial, san-serif, halvetica;
 }
 
 nav ul {
@@ -20,20 +20,29 @@ nav ul li {
 #main-header{
 	text-align: center;
 }
+#highlight-section{
+	background: url("../images/saw-large.jpg") no-repeat right top;
+}
+.custom-h1{
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
 
 @media(min-width:786px){
 	.container{
 		margin: auto;
 		width: 80%;
 	}
-	#main-section{
+	#main-section .container{
 		display: flex;
 		
 	}
-	#main-header{
+	#main-header .container{
 		display: flex;
 	}
 	
 }
 
  
+    
