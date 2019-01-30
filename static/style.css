@@ -25,7 +25,7 @@ nav{
 
 nav ul {
 	list-style: none;
-	margin: none;
+	margin: 0;
 }
 nav ul li {
 	display: inline;
