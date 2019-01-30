@@ -53,6 +53,9 @@ footer{
 #highlight-section h1{
 	font-size: 3em;
 }
+#main-section{
+	flex: 1 0 auto;
+}
 .custom-h1{
 	font-size: 1.6em;
 	font-weight: bold;
