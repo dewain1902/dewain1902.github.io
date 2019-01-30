@@ -64,9 +64,8 @@ footer{
 	font-weight: bold;
 }
 .box{
-	padding-right: 1.5em;
-	padding-left: 1.5em;
-	border: 1px solid orange;
+	margin: 2px;
+	
 }
 
 
@@ -86,7 +85,6 @@ footer{
 		align-items: center;
 	}
 	.box{
-		border-spacing: 2px;
 		margin: 2px;
 	}
 	
